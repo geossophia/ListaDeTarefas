@@ -15,7 +15,8 @@ body{
     transform: translate(-50%,-50%);
     top: 50%;
     left: 50%;
-    margin: 252px 0px 0px 358px;
+    margin: 0px auto;
+    margin-top: 331px;
 }
 #newtask{
     background-color: white;
